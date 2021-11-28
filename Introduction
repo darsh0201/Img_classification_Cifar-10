@@ -1,0 +1,2 @@
+This project makes use of CIFAR-10 dataset which consists of 60000 32x32 colour images in 10 classes, with 6000 images per class. 
+These are split into 50000 training images and 10000 test images to create a model to classify these images into different classes using convolutional neural network or CNN.
